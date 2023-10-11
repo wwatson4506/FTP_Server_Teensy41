@@ -402,7 +402,7 @@ If you want to contribute to this project:
 - Tell other people about this library
 
 ---
-
+---
 ### License
 
 - The library is licensed under [GPLv3](https://github.com/khoih-prog/FTP_Server_Teensy41/blob/main/LICENSE)
